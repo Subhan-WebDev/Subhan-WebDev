@@ -1,6 +1,14 @@
 # 💫 About Me:
 Hi, I'm Subhan<br><br>I'm a Full Stack Developer with 3 years of learning experience and <br>1 year of working experience at Beenco. <br>I specialize in Frontend development with HTML, CSS, JavaScript, and React.js. <br>I'm also skilled in Next.js, Tailwind CSS, and Bootstrap.<br>In addition, I have hands-on experience with Backend development, including Node.js, Express.js, and MongoDB.
 
+*this mounth i spent my time on till now:**
+```txt
+Reat          26 hrs 7 mins   ███████████░░░░░░░░░░░░░░   45.04 %
+C             4 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   5.66 %
+JavaScript    14 hrs 32 mins  █████████░░░░░░░░░░░░░░░░   30.69 %
+CSS           4 hrs           ░░░░░░░██░░░░░░░░░░░░░░░░   5.35 %
+Node,EX,DB    9 hrs 17 Min    █████████░░░░░░░░░░░░░░░░   00.23 %
+```
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100007353076247&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/subhankamran01?igsh=c3EybXNxNXI0bWJ4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subhan-kamran-972622312/) 
