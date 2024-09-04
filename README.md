@@ -3,7 +3,7 @@ Hi, I'm Subhan<br><br>I'm a Full Stack Developer with 3 years of learning experi
 
 *this mounth i spent my time on till now:**
 ```txt
-Reat          26 hrs 7 mins   ███████████░░░░░░░░░░░░░░   45.04 %
+React          26 hrs 7 mins  ███████████░░░░░░░░░░░░░░   45.04 %
 C             4 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   5.66 %
 JavaScript    14 hrs 32 mins  █████████░░░░░░░░░░░░░░░░   30.69 %
 CSS           4 hrs           ░░░░░░░██░░░░░░░░░░░░░░░░   5.35 %
